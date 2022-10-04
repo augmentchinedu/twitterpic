@@ -1,0 +1,27 @@
+.main {
+  background: #1d1919;
+  height: 500px;
+  width: 1200;
+}
+
+.music {
+  background: #fe5f55;
+  margin: auto;
+  position: absolute;
+}
+
+.horizontal {
+  height: 15px;
+  width: 100px;
+}
+
+.vertical {
+  height: 200px;
+  width: 15px;
+}
+
+.oval {
+  height: 85px;
+  width: 100px;
+  border-radius: 100%;
+}
